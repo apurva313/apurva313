@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Apurva Kumar</h1>
 <h3 align="center">Exploring AI with TensorFlow and Python</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apurva313" alt="apurva313" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/apurva_313" target="blank"><img src="https://img.shields.io/twitter/follow/apurva_313?logo=twitter&style=for-the-badge" alt="apurva_313" /></a> </p>
 
 - 🔭 I’m currently working on **AI-ML Project**
