@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **AI-ML Project**
 
-- 🌱 I’m currently learning **DSA,MySQL,ReactJS,**
+- 🌱 I’m currently learning **DSA,MySQL**
 
 - 💬 Ask me about **#DSA, #Python, #cloudcomputing, and #development**
 
