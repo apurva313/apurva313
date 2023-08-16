@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Apurva Kumar</h1>
 <h3 align="center">Exploring AI with TensorFlow and Python</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/apurva313/apurva313/assets/102182985/bcbb7365-027a-47b2-93ff-3efae894c63a">
+<img align="right" alt="coding" width="400" src="https://github.com/apurva313/apurva313/assets/102182985/29e36476-8397-4e2f-be2d-170c4586f5cf">
+
 
 <p align="left"> <a href="https://twitter.com/apurva_313" target="blank"><img src="https://img.shields.io/twitter/follow/apurva_313?logo=twitter&style=for-the-badge" alt="apurva_313" /></a> </p>
 
