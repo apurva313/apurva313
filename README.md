@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Apurva Kumar</h1>
-<h3 align="center">Exploring AI with TensorFlow and Python!!</h3>
+<h3 align="center">Exploring Backend with NodeJS!!</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/apurva313/apurva313/assets/102182985/29e36476-8397-4e2f-be2d-170c4586f5cf">
 
 ![profile views](https://komarev.com/ghpvc/?username=apurva313&style=flat-square)
 
 <p align="left"> <a href="https://twitter.com/apurva_313" target="blank"><img src="https://img.shields.io/twitter/follow/apurva_313?logo=twitter&style=for-the-badge" alt="apurva_313" /></a> </p>
 
-- 🔭 I’m currently working on **AI-ML Project**
+- 🔭 I’m currently working on **NodeJS Project**
 
 - 🌱 I’m currently learning **DSA,MySQL**
 
-- 💬 Ask me about **#DSA, #Python, #cloudcomputing, and #development**
+- 💬 Ask me about **#DSA, #NodeJS, #cloudcomputing, and #development**
 
 - 📫 How to reach me **apurvakumar313@gmail.com**
 
