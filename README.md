@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/apurva_313" target="blank"><img src="https://img.shields.io/twitter/follow/apurva_313?logo=twitter&style=for-the-badge" alt="apurva_313" /></a> </p>
 
-- 🔭 I’m currently working on **NodeJS Project**
+- 🔭 I’m currently working on **NodeJS Project**.
 
-- 🌱 I’m currently learning **DSA,MySQL**
+- 🌱 I’m currently learning **DSA,MySQL**.
 
-- 💬 Ask me about **#DSA, #NodeJS, #cloudcomputing, and #development**
+- 💬 Ask me about **#DSA, #NodeJS, #cloudcomputing, and #development**.
 
-- 📫 How to reach me **apurvakumar313@gmail.com**
+- 📫 How to reach me **apurvakumar313@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
