@@ -30,14 +30,12 @@
 </p>
 
 <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apurva313&theme=graywhite" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=apurva313&theme=graywhite" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=apurva313&theme=graywhite" />
-    <img src="https://streak-stats.demolab.com?user=apurva313" />
+    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apurva313&theme=dark" />
+    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=apurva313&theme=dark" />
+    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=apurva313&theme=dark" />
+    <img height="155em" src="https://streak-stats.demolab.com?user=apurva313&theme=dark" />
+    <img height="155em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apurva313&show_icons=true&locale=en&layout=compact&theme=dark" alt="apurva313" />
+    <img height="155em" align="center" src="https://github-readme-stats.vercel.app/api?username=apurva313&show_icons=true&locale=en&theme=dark" alt="apurva313" />
 </div>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apurva313&show_icons=true&locale=en&layout=compact" alt="apurva313" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apurva313&show_icons=true&locale=en" alt="apurva313" /></p>
 
 
