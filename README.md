@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Apurva Kumar !</h1>
 <h3 align="center">Exploring Backend with NodeJS !</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/apurva313/apurva313/assets/102182985/29e36476-8397-4e2f-be2d-170c4586f5cf">
+
+
+<img src="https://github.com/user-attachments/assets/70bb5a2d-d1fb-4a85-a3bc-1e6c69f059d1" min-width="300px" max-width="300px" width="350px" align="right"> 
+
+
+
 
 ![profile views](https://komarev.com/ghpvc/?username=apurva313&style=flat-square)
 
