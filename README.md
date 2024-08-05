@@ -35,12 +35,20 @@
 </p>
 
 <div align="center">
-    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apurva313&theme=dark" />
+<!--     <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apurva313&theme=dark" />
     <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=apurva313&theme=dark" />
     <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=apurva313&theme=dark" />
-    <img height="155em" src="https://streak-stats.demolab.com?user=apurva313&theme=dark" />
-    <img height="155em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apurva313&show_icons=true&locale=en&layout=compact&theme=dark" alt="apurva313" />
-    <img height="155em" align="center" src="https://github-readme-stats.vercel.app/api?username=apurva313&show_icons=true&locale=en&theme=dark" alt="apurva313" />
+    <img height="155em" src="https://streak-stats.demolab.com?user=apurva313&theme=dark" /> -->
+    
+
+    
+  [![](https://raw.githubusercontent.com/apurva313/apurva313/master/assets/dark/0-profile-details.svg)](https://github.com/apurva313/apurva313)
+  [![](https://raw.githubusercontent.com/apurva313/apurva313/master/assets/dark/1-repos-per-language.svg)](https://github.com/apurva313/apurva313) [![](https://raw.githubusercontent.com/apurva313/apurva313/master/assets/dark/2-most-commit-language.svg)](https://github.com/apurva313/apurva313)
+  [![](https://raw.githubusercontent.com/apurva313/apurva313/master/assets/dark/3-stats.svg)](https://github.com/apurva313/apurva313) [![](https://raw.githubusercontent.com/apurva313/apurva313/master/assets/dark/4-productive-time.svg)](https://github.com/apurva313/apurva313)
+
+  <img   src="https://github-readme-stats.vercel.app/api/top-langs?username=apurva313&show_icons=true&locale=en&layout=compact&theme=dark" alt="apurva313" />
+    <img   src="https://github-readme-stats.vercel.app/api?username=apurva313&show_icons=true&locale=en&theme=dark" alt="apurva313" />
+
 </div>
 
 
