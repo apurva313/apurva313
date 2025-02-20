@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Apurva Kumar !</h1>
-<h3 align="center">Exploring Backend with NodeJS !</h3>
+<h3 align="center">Exploring Backend with NodeJS and Diving into AI & Java!</h3>
 
 
 <img src="https://github.com/user-attachments/assets/70bb5a2d-d1fb-4a85-a3bc-1e6c69f059d1" min-width="300px" max-width="300px" width="350px" align="right"> 
@@ -11,11 +11,11 @@
 
 <p align="left"> <a href="https://twitter.com/apurva_313" target="blank"><img src="https://img.shields.io/twitter/follow/apurva_313?logo=twitter&style=for-the-badge" alt="apurva_313" /></a> </p>
 
-- 🔭 I’m currently working on **NodeJS Project**.
+- 🔭 I’m currently working on **NodeJS Project** and exploring **AI-based applications**.
 
-- 🌱 I’m currently learning **DSA,MySQL**.
+- 🌱 I’m currently learning **DSA,MySQL and Java**.
 
-- 💬 Ask me about **#DSA, #NodeJS, #cloudcomputing, and #development**.
+- 💬 Ask me about **#DSA, #NodeJS, #Java, #AI, #cloudcomputing, and #development**.
 
 - 📫 How to reach me **apurvakumar313@gmail.com**.
 
